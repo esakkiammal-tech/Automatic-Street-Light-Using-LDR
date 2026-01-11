@@ -1,9 +1,8 @@
-Automatic Street Light Using LDR
-Description
-
+**Automatic Street Light Using LDR**
+**Description**
 This project implements an automatic street light system using an LDR sensor and Arduino. The light automatically turns ON during night and turns OFF during daytime based on surrounding light conditions.
 
-Components Used
+**Components Used**
 
 Arduino UNO
 
@@ -17,13 +16,13 @@ Breadboard
 
 Jumper Wires
 
-Working
+**Working**
 
 Daytime → LDR senses light → LED remains OFF
 
 Nighttime → LDR senses darkness → LED turns ON
 
-Applications
+**Applications**
 
 Street lighting systems
 
